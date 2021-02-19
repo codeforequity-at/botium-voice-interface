@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<a href="https://rasa.com/" target="_blank">
+		<a href="https://www.botium.ai/" target="_blank">
 			<img class="logo" src="@/assets/icon/logo.png">
 		</a>
 		<p>
@@ -19,7 +19,6 @@ export default {};
 
 <style lang="scss" scoped>
 .logo {
-	width: 104px;
 	height: 49px;
 	margin: 0 auto;
 	display: block;

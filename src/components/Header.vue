@@ -3,7 +3,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-4 text-left">
-					<a href="https://rasa.com/" target="_blank">
+					<a href="https://www.botium.ai/" target="_blank">
 						<img id="header-logo" src="@/assets/icon/logo.png">
 					</a>
 				</div>
